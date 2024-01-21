@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+For Search the GST Number please type any from below list, othetwise it show no Data Found for invalid number.
+[12ABCDE3456F1GH,07AABCZ5840K1ZZ,23FGHIJ4567K2LM,34KLMNO5678P3QR,45RSTUV7890Q4WX,56WXYZ1234U5AB,67CDEFG5678V6HI,78IJKL8901X7MN,89OPQR2345Y8ST,90UVWX4567Z9AB]
+
+### Run npm i for installing the dependencies then run npm start for local development.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
